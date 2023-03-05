@@ -1,6 +1,6 @@
-# Sidebar
+# Modal
 
-This is a solution to the Sidebar project which is a part of John Smilga's 15 JS projects tutorial.
+This is a solution to the Modal project which is a part of John Smilga's 15 JS projects tutorial.
 
 ## Table of contents
 
