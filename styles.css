@@ -183,7 +183,7 @@ Modal
 */
 .hero {
   min-height: 100vh;
-  background: url("./hero.jpeg") center/cover no-repeat;
+  background: url("./images/hero.jpeg") center/cover no-repeat;
   display: grid;
   place-items: center;
 }
@@ -227,6 +227,7 @@ Modal
 .modal-container {
   background: var(--clr-white);
   border-radius: var(--radius);
+  color: var(--clr-black);
   width: 90vw;
   height: 30vh;
   max-width: var(--fixed-width);
@@ -234,6 +235,11 @@ Modal
   display: grid;
   place-items: center;
   position: relative;
+}
+.modal-container > a{
+  text-align: center;
+  font-family: var(--ff-secondary);
+  font-weight: bold;
 }
 .close-btn {
   position: absolute;
