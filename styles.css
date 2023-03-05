@@ -240,6 +240,7 @@ Modal
   text-align: center;
   font-family: var(--ff-secondary);
   font-weight: bold;
+  color: forestgreen;
 }
 .close-btn {
   position: absolute;
