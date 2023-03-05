@@ -21,20 +21,19 @@ Users should be able to:
 
 - View the optimal layout for the app depending on their device's screen size
 - See hover states for all interactive elements on the page
-- View the Sidebar on click of the toggle button.
-- View the size of the Sidebar change upon change in screen size.
+- View the Modal Overlay on click of the Open Modal button.
 
 ### Screenshot
 
 #### Full Screen
-![Full screen](./images/website_preview.jpg)
-#### Minimised Screen
+![Full screen](./images/Website_preview.jpg)
+#### Modal Display
 ![Minimised screen](./images/Website_preview_2.jpg)
 
 ### Links
 
-- Solution URL: [Solution URL](https://github.com/AshwanthramKL/Sidebar)
-- Live Site URL: [Live site URL](https://ashwanthramkl.github.io/Sidebar/)
+- Solution URL: [Solution URL](https://github.com/AshwanthramKL/Modal)
+- Live Site URL: [Live site URL](https://ashwanthramkl.github.io/Modal/)
 
 ## My process
 
@@ -52,7 +51,6 @@ This project helped me recap over some concepts of CSS and JS such as  Event lis
 - classList
 - Class addition and removal
 - toggle
-- transform & translate properties
 
 
 
